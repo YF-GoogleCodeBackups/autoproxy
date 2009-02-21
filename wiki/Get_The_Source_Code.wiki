@@ -1,4 +1,4 @@
-=The source code of AutoProxy is hosted at github.=
+==The source code of !AutoProxy is hosted at github.==
 
 
-= please move there: http://github.com/lovelywcm=
+==please move there: http://github.com/lovelywcm==
