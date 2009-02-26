@@ -1,2 +1,4 @@
+= Download and Install Available @ MozDev=
 
-Download and Install Available @ http://downloads.mozdev.org/autoproxy/autoproxy-0.1.1.xpi
+
+=== http://downloads.mozdev.org/autoproxy/autoproxy-0.1.1.xpi ===
