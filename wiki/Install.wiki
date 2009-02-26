@@ -1,0 +1,2 @@
+
+Download and Install Available @ http://downloads.mozdev.org/autoproxy/autoproxy-0.1.1.xpi
